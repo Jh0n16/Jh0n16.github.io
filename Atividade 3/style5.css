@@ -1,0 +1,52 @@
+/*Número 1*/
+body {
+    font-size: 80%;
+    background-color: white;
+    max-width: 940px;
+    min-width: 720px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border: solid black 4px;
+}
+
+/*Número 2*/
+.container > a {
+    padding: 5px;
+}
+.container > a:hover{
+    color: red;
+    font-size: 20px;
+}
+.container{
+    background-color: lightgray;
+    border-radius: 80%;
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*Número 3*/
+section{
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section > img {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+/*Número 4*/
+footer {
+    background-color: lightgray;
+    border-radius: 80%;
+    text-align: center;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
